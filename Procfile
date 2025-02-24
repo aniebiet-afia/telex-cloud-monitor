@@ -1,1 +1,1 @@
-web: java -jar target/telex-cloud-monitor-1.0.0.jar
+web: java -jar target/telex-alibaba-monitor-1.0.0.jar
